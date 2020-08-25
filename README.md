@@ -14,9 +14,9 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Anjin's Cloud Journey
 
-[✍️ Introduce yourself]
+I am a enterprise application consultant, specialised in integration solutions. I am taking on 100 days of learning cloud to sharpen my skills in cloud solutions. I used this opportunity to build a learning habbit into my lifestyle.
 
 [✍️ Tell us why you started this challenge]
 
